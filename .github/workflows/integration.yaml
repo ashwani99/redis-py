@@ -8,6 +8,7 @@ on:
       - '**/*.md'
     branches:
       - master
+      - master-copy
   pull_request:
     branches:
       - master
